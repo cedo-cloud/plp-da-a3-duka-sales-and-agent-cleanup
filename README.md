@@ -12,23 +12,23 @@ This repository contains the deliverables for two client engagements:
    ```
 
 2. Generate the synthetic datasets by running:
-```bash
-python generate_data.py
-```
+    ```bash
+    python generate_data.py
+    ```
 This creates duka_sales.csv, agents.csv, and agent_transactions.csv.
 
 
 3. Run the Duka exploration notebook:
-```bash
-jupyter notebook duka_sales_exploration.ipynb
-```
+    ```bash
+    jupyter notebook duka_sales_exploration.ipynb
+    ```
 
 4. Run the Agent cleanup notebook:
-```bash
-jupyter notebook agent_cleanup.ipynb
-```
+    ```bash
+    jupyter notebook agent_cleanup.ipynb
+    ```
 
-4. ## Duka Executive Summary
+ ## Duka Executive Summary
 - Nairobi contributes 36.4% of total revenue, almost double the next highest branch.
 - Laptops generated KES 41.5M in revenue, more than twice the revenue of the second-ranked product.
 - In-store and online orders have nearly identical average order values of approximately KES 71,000.
