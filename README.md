@@ -15,7 +15,7 @@ This repository contains the deliverables for two client engagements:
     ```bash
     python generate_data.py
     ```
-This creates duka_sales.csv, agents.csv, and agent_transactions.csv.
+   This creates duka_sales.csv, agents.csv, and agent_transactions.csv.
 
 
 3. Run the Duka exploration notebook:
